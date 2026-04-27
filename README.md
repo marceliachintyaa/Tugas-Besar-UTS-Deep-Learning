@@ -78,7 +78,7 @@ Repository ini berisi pipeline Machine Learning end-to-end untuk dua dataset seb
 | **01 Feature Engineering** | Log-transform target, temporal features, cyclical encoding sin/cos, lag features (1–144 step), rolling statistics, StandardScaler no-leakage |
 | **02 Model Baseline** | Linear Regression & SVR (RBF) — split 80:20 & 70:30, CV k=5, evaluasi R²/MAE/RMSE/MAPE |
 | **03 Hyperparameter Tuning** | Ridge → GridSearchCV, SVR → RandomizedSearchCV |
-| **Bonus** | Error analysis per segmen konsumsi, inference simulation |
+| **Inference** | Error analysis per segmen konsumsi, inference simulation |
 
 ### Hasil Utama
 

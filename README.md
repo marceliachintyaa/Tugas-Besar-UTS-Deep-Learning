@@ -1,4 +1,4 @@
-# Tugas Besar Deep Learning — Machine Learning Fundamentals
+# Tugas Besar Deep Learning
 ## S2 Teknik Elektro | ABK6BAB3 | Universitas Telkom
 
 ---

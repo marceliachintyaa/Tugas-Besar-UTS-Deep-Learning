@@ -5,10 +5,10 @@
 
 ## Anggota Kelompok
 
-| Nama | Email |
-|---|---|
-| Marcelia Chintya Hartakaadi | marceliachintya@student.telkomuniversity.ac.id |
-| Natasha Fedora Barus | natashafbarus@student.telkomuniversity.ac.id |
+| Nama | NIM | Email |
+|---|---|---|
+| Marcelia Chintya Hartakaadi | 1101223073 | marceliachintya@student.telkomuniversity.ac.id |
+| Natasha Fedora Barus | 1101223205 | natashafbarus@student.telkomuniversity.ac.id |
 
 ---
 
